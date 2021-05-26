@@ -1,0 +1,536 @@
+@media screen and (max-width: 600px) {
+    body #h2{
+		color: white;
+		text-align: center;
+		font-weight: bold;
+		font-family: lato;
+		margin-top: 15%;
+		margin-bottom: 15%;
+		font-size: 100%;
+		text-shadow: 2px 2px 10px rgb(6,117,145);
+	}
+	#h2:hover{
+		cursor: pointer;
+	}
+    body #contact-holder{
+			border-left: 6px solid rgb(0,0,0,0.6);
+			background-color: rgba(0,0,0,0.1);
+			padding: 0%;
+			margin-top: -2.5%;
+			margin-left: 7%;
+			margin-right: -0.5%;
+			padding-left: 1rem;
+		}
+    body .text-contact-details{
+			border: none;
+			padding: 0.1rem;
+			text-align: center;
+			color: white;
+			margin-left: -1%;
+			margin-right: -0.5%;
+			margin-top: 3%;
+			background: rgba(0, 0, 0, 0.6);
+      margin-left: -1%;
+      margin-right: -0.5%;
+		}
+    body .text-about-details{
+			border: none;
+			padding: 0.1rem;
+			text-align: center;
+			color: white;
+			margin-left: -1%;
+			margin-right: -0.5%;
+			margin-top: 3%;
+			background: rgba(0, 0, 0, 0.6);
+      margin-left: -1%;
+      margin-right: -0.5%;
+		}
+    body #div-about-holder{
+  		  border: none;
+  			background-color: rgba(0,0,0,0.1);
+  			border-left: 6px solid rgba(0, 0, 0, 0.6);
+  			padding: 0.8rem;
+  			margin-left: 3%;
+  	}
+  	body #about-text{
+  		font-size: 100%;
+  	}
+		body .pp-text{
+			font-size: 1rem;
+			font-weight: bold;
+			font-family: lato;
+			cursor: alias;
+		}
+    body #contact-img{
+        width: 100%;
+        margin-top: 5%;
+    }
+    body #con-text{
+        font-size: 70%;
+        font-weight: bold;
+    }
+    body #about-img{
+        width: 100%;
+        margin-top: 5%;
+    }
+    body #header-link{
+		text-align: center;
+		margin-left: 2%;
+        font-size: 15px;
+	}
+    body #des{
+        text-align: center;
+        font-size: 100%;
+        font-weight: bold;
+        color: white;
+    }
+    body #des1{
+        text-align: center;
+        font-size: 70%;
+        font-weight: bold;
+        color: black;
+    }
+    body #des-last{
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        font-size: 70%;
+    }
+    body #des2{
+        font-size: 70%;
+        color: white;
+    }
+    body #li{
+        color: white;
+        font-weight: bold;
+        font-size: 70%;
+    }
+    body #tell-us{
+        font-size: 100%;
+        font-weight: bold;
+        text-align: center;
+        color: white;
+    }
+     body #join{
+        border: 3px solid white;
+        padding: 0.5rem;
+        color: lightblue;
+        font-weight: bold;
+        font-size: 70%;
+        text-align: center;
+        width: 30%;
+        border-radius: 0.5rem;
+        margin-left: 33%;
+    }
+    body #join:hover{
+        background-color: white;
+        transition-duration: 1s;
+    }
+    body #footer-link{
+        font-size: 70%;
+    }
+    body #ul{
+        width: 45%;
+    }
+    body #last-topic{
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        font-size: 50%;
+    }
+    body #p{
+        text-align: center;
+        font-weight: bold;
+        font-size: 100%;
+    }
+    #form{
+        width: 80%;
+        margin-left: 5%;
+        font-weight: bold;
+        font-size: 100%;
+    }
+    body #text{
+        width: 80%;
+        height: 180px;
+        border: none;
+        border-left: 4px solid green;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        background: rgba(0,0,0,0.1);
+        border-radius: 0.5rem;
+    }
+    body #intro{
+        margin: 0%;
+        font-size: 100%;
+    }
+    body #last-topic{
+      font-size: 10px;
+    }
+    body .side-text{
+      margin-top: 10%;
+      background: rgba(0, 0, 0, 0.1);
+      border-right: 4px solid rgba(0, 0, 0, 0.5);
+      width: 80%;
+      margin-left: 10%;
+      padding: 1rem;
+      overflow: auto;
+    }
+    body .side-text2{
+      margin-top: 10%;
+      background: rgba(0, 0, 0, 0.1);
+      border-left: 4px solid rgba(0, 0, 0, 0.5);
+      width: 80%;
+      margin-right: 40%;
+      /* padding: 1rem; */
+      overflow: auto;
+    }
+    body .whatwedo{
+      text-align: center;
+      font-weight: bold;
+      font-family: lato;
+      font-size: 15px;
+    }
+    body .side-show{
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      padding: 0.2rem;
+      margin-top: 5%;
+      margin-left: -1%;
+      margin-right: -0.5%;
+    }
+    body .logIN_form{
+  		margin-top: 5%;
+      width: 90%;
+      margin-left: 7%;
+      border-left: 4px solid rgba(0,0,0,0.6);
+      padding-left: 1rem;
+  	}
+  	body #email-log{
+  		border: none;
+  		border-left: 6px solid green;
+  		padding: 1rem;
+  		border-radius: 0.2rem;
+  		margin-bottom: 2%;
+  		color: black;
+  		background: rgba(0,0,0,0.1);
+  		width: 60%;
+  		cursor: pointer;
+  	}
+  	body #password-log{
+  		border: none;
+  		border-left: 6px solid green;
+  		padding: 1rem;
+  		border-radius: 0.2rem;
+  		margin-bottom: 2%;
+  		color: black;
+  		background: rgba(0,0,0,0.1);
+  		width: 60%;
+  		cursor: pointer;
+  	}
+    body #login{
+      padding: 0.4rem;
+      border: none;
+      background: green;
+      color: white;
+      text-align: center;
+      border-radius: 0.2rem;
+      cursor: pointer;
+    }
+    body #WelcomeText{
+			text-align: center;
+			font-weight: bold;
+			font-family: lato;
+			font-size: 15px;
+		}
+    body #dbImage{
+			width: 50%;
+			height: 150px;
+		}
+		body #div-post-holder{
+			border: none;
+			border-radius: 0rem 0rem 1rem 1rem;
+			background: rgba(0, 0, 0, 0.1);
+			margin-bottom: 5%;
+		}
+		body #div-date-holder{
+			text-align: center;
+			font-weight: bold;
+			font-family: lato;
+			background: rgba(0,0,0,0.5);
+			border: none;
+			padding: 0.5rem;
+			color: white;
+		}
+    body #noteDB{
+      font-size: 15px;
+    }
+    body .form{
+  		margin-top: 5%;
+  		padding: 0.5rem;
+  		border-right: 4px solid rgba(0, 0, 0, 0.6);
+  	}
+    body .input{
+  		border: none;
+  		border-left: 6px solid green;
+  		padding: 0.7rem;
+      padding-left: 1rem;
+  		border-radius: 0.2rem;
+  		margin-bottom: 2%;
+  		color: black;
+  		background: rgba(0,0,0,0.1);
+  		width: 70%;
+  		cursor: pointer;
+  		margin-top: 5%;
+  	}
+  	body #submit{
+  		border: none;
+  		border-radius: 0.2rem;
+  		background: green;
+  		color: white;
+  		font-weight: bold;
+  		text-align: center;
+  		padding: 0.5rem;
+  		cursor: pointer;
+  		width: 30%;
+  		margin-top: 5%;
+  	}
+    body .side_bar_div_1{
+  		border: none;
+  		border-top: 6px solid green;
+  		width: 95%;
+  		display: inline-block;
+  		background: rgba(0,0,0,0.1);
+  		box-shadow: 1px 1px 15px 2px grey;
+  		margin-left: 0.2%;
+  		margin-top: 10%;
+  		padding: 0.5rem;
+  	}
+    body .reg-text{
+  		border-bottom: 4px solid rgba(0, 0, 0, 0.6);
+  		width: 60%;
+  		cursor: pointer;
+  		font-weight: bold;
+  	}
+    body .div-text{
+    	font-size: 0.8rem;
+    	border-left: 4px solid rgba(0,0,0,0.5);
+    	padding-left: 1rem;
+    	margin-left: 3%;
+    }
+    body .h2-dev{
+    	text-align: center;
+    	font-weight: bold;
+    	font-family: lato;
+    	margin-top: 3%;
+      font-size: 0.8rem;
+    }
+    body .mode{
+    	border: none;
+    	background: rgba(0,0,0,0.6);
+    	padding: 0.1rem;
+      padding-left: 1rem;
+    	color: white;
+    	font-weight: bold;
+    }
+    body #my-image{
+  		width: 55%;
+  		height: 180px;
+  		clip-path: circle(45%);
+  	}
+    body .span-container{
+  		font-weight: bold;
+  		font-family: cursive;
+      font-size: 18px;
+  	}
+  	body .nav1{
+  		background: rgba(0, 0, 0, 0.5);
+  		padding: 1rem;
+  		color: white;
+  	}
+    body .first-text{
+      text-align: center;
+      font-weight: bold;
+      font-family: lato;
+      color: white;
+      font-size: 15px;
+    }
+    body .text-holder{
+      background: rgba(0, 0, 0, 0.6);
+      margin-left: -1%;
+      margin-right: -0.5%;
+      margin-top: 3%;
+      padding: 0.5rem;
+    }
+    body #divdata{
+  		width: 40%;
+  		/* float: left; */
+  	}
+  	body #divdata2{
+  		width: 40%;
+  		/* float: right; */
+  		color: black;
+  		font-weight: bolder;
+  	}
+    body #dbimages{
+  		width: 50%;
+  	}
+  	body #main-div-container{
+  		border: none;
+  		/* height: 100px; */
+  		background: rgba(0, 0, 0, 0.1);
+  		border-left: 6px solid rgba(0, 0, 0, 0.5);
+  		margin-bottom: 2%;
+  	}
+    body .post-container{
+      padding: 0.5rem;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+      border-left: 6px solid rgba(0, 0, 0, 1);
+      background: rgba(0, 0, 0, 0.1);
+    }
+    body #button{
+  		border-radius: 0.2rem;
+  		padding: 0.3rem;
+  		background-color: green;
+  		color: white;
+  		text-align: center;
+  		font-weight: bold;
+  		cursor: pointer;
+  	}
+    body #div-post-details{
+      border-left: 3px solid rgba(0,0,0,0.5);
+      font-weight: bold;
+      background: rgba(0, 0, 0, 0.2);
+      margin-left: 5%;
+      margin-top: 0.3%;
+      padding-left: 0.3rem;
+      padding-top: 0rem;
+      margin-bottom: 3%;
+      cursor: pointer;
+    }
+    .ptext{
+      margin: 0.5%;
+    }
+    body #note{
+			font-weight: bold;
+			font-family: lato;
+			font-size: 10px;
+		}
+    body #text-space-container{
+			width: 90%;
+			height: 150px;
+			border: none;
+			border-left: 4px solid green;
+			margin-top: 5%;
+			margin-bottom: 5%;
+			background: rgba(0,0,0,0.1);
+			border-radius: 0.5rem;
+		}
+    body #btu-submit{
+			width: 80%;
+			border: none;
+			padding: 0.5rem;
+			color: white;
+			font-weight: bold;
+			background-color: green;
+			border-radius: 0.2rem;
+		}
+		body #btu-submit:hover{
+			cursor: pointer;
+		}
+    #find-us-link{
+      text-decoration: none;
+    }
+    body .textarea{
+  		margin-top: 2%;
+      width: 90%;
+  		border: none;
+  		background: rgba(0, 0, 0, 0.1);
+  		border-left: 6px solid green;
+  	}
+    body #textUp{
+  		text-align: center;
+  		font-weight: bold;
+  		font-family: cursive;
+      font-size: 12px;
+  	}
+    body #errMessage{
+  		color: red;
+  		font-size: 0.6rem;
+  		font-weight: bold;
+  	}
+    body .submitBtu{
+  		padding: 0.5rem;
+      border: none;
+  		text-align: center;
+  		background: green;
+  		color: white;
+  		font-weight: bold;
+      width: 30%;
+  		border-radius: 0.3rem;
+  	}
+    body header{
+      border: none;
+  		margin-left: -3%;
+      margin-right: -2.5%;
+      margin-top: -3%;
+  		background: url(images/rose.jpeg);
+  		background-size: cover;
+  	}
+    body footer{
+			border: 2px solid black;
+			background: url("images/all2.jpg");
+			background-size: cover;
+			border: none;
+			margin-left: -3%;
+      margin-right: -2.5%;
+			margin-top: 5%;
+			margin-bottom: -3%;
+		}
+    body .uernameinput{
+  		padding: 1.3rem;
+  		border: none;
+  		background: rgba(0, 0, 0, 0.1);
+  		border-left: 4px solid green;
+  		color: black;
+  		font-weight: bold;
+  		width: 75%;
+  	}
+    body .side-bar-img-div{
+  		display: none;
+
+  	}
+    body .form-container{
+  		border-right: 2px solid green;
+  		width: 100%;
+  		/* display: inline-block; */
+  	}
+    body .submitBtu{
+  		padding: 1rem;
+  		text-align: center;
+  		background: green;
+  		color: white;
+  		width: 97%;
+  		cursor: pointer;
+  		border: none;
+  		font-weight: bold;
+  		border-radius: 0.3rem;
+  	}
+    body .usernameinput{
+  		padding: 1.5rem;
+  		border: none;
+  		background: rgba(0, 0, 0, 0.1);
+  		border-left: 4px solid green;
+  		color: black;
+  		font-weight: bold;
+  		width: 80%;
+  	}
+    body .textarea{
+  		margin-top: 2%;
+  		border: none;
+  		background: rgba(0, 0, 0, 0.1);
+  		border-left: 6px solid green;
+      width: 94%;
+  	}
+
+
+}
